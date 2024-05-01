@@ -1,7 +1,7 @@
 import time
 import docx
 import sys
-sys.path.append(r'C:\Users\25430\Desktop\翻译模块')
+sys.path.append(r'')
 from 翻译工具 import 腾讯免费,谷歌,检测,翻译阶段,上下标,翻译_保留上下标
 import re
 from lxml import etree
